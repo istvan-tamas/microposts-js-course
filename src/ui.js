@@ -44,7 +44,7 @@ class UI {
 
         setTimeout(() => {
             this.clearAlert();
-        }, 3000);
+        }, 1000);
     }
 
     clearAlert(){
